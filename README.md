@@ -3,12 +3,6 @@
 ###
 
 <div align="center">
-  <img height="300" src="https://i.ibb.co/d6jLmMD/IMG-2134.jpg"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/angular/DD0031" height="30" alt="angularjs logo"  />
