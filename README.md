@@ -1,44 +1,20 @@
-<h2 align="left">Hi 👋! My name is Brian and I'm a Web Developer</h2>
+# Brian González - @brianglezn
 
-###
+## About Me
+Experienced Software Developer with a passion for crafting elegant, efficient applications. I specialize in modern web technologies and frameworks, consistently delivering innovative solutions that solve problems. My approach combines technical expertise with creative problem-solving to build seamless digital experiences that users love.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brianglezn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brianglezn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## Projects
 
-###
+### Profit&Lost
+Profit&Lost is a fullstack web application developed with React, TypeScript, Node.js, Express, and MongoDB, designed to simplify personal finance management. It allows users to record and categorize income and expenses, keep detailed tracking of their accounts and financial movements, and generate annual reports for more comprehensive analysis. Additionally, being a Progressive Web App, it can be accessed from any device without installation. Currently, I continue working on new features to optimize the user experience and further improve the platform.
 
-<img align="right" height="150" src="https://brian-novoa.com/logo.png"  />
+[Profit&Lost](https://profit-lost.com)
 
-###
+## Skills
+- **Languages**: JavaScript, TypeScript, HTML, CSS
+- **Frontend**: React, Next.js
+- **Backend**: Node.js, Express
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/dev_brianglezn/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/brianglezn/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:brianglezn@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
-  </a>
-</div>
-
-###
+## Contact
+- Instagram: [@brian.developer](https://www.instagram.com/brian.developer/)
+- Website: [brianglezn.com](https://brian-novoa.com)
