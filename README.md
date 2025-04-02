@@ -16,5 +16,6 @@ Profit&Lost is a fullstack web application developed with React, TypeScript, Nod
 - **Backend**: Node.js, Express
 
 ## Contact
-- Instagram: [@brian.developer](https://www.instagram.com/brian.developer/)
+- Linkedin: [@brianglezn](https://www.linkedin.com/in/brianglezn/))
 - Website: [brianglezn.com](https://brian-novoa.com)
+- Instagram: [@brian.developer](https://www.instagram.com/brian.developer/)
