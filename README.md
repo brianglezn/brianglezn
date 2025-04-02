@@ -1,4 +1,4 @@
-# Brian González - @brianglezn
+# Brian G. Novoa - @brianglezn
 
 ## About Me
 Experienced Software Developer with a passion for crafting elegant, efficient applications. I specialize in modern web technologies and frameworks, consistently delivering innovative solutions that solve problems. My approach combines technical expertise with creative problem-solving to build seamless digital experiences that users love.
