@@ -22,5 +22,5 @@ CartaHub is a full-stack web application built with the MERN stack (MongoDB, Exp
 
 ## Contact
 - Linkedin: [@brianglezn](https://www.linkedin.com/in/brianglezn/)
-- Website: [brianglezn.com](https://brian-novoa.com)
+- Website: [brian-novoa.com](https://brian-novoa.com)
 - Instagram: [@brian.developer](https://www.instagram.com/brian.developer/)
