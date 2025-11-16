@@ -32,7 +32,7 @@ Complete digital system for restaurant management. Create menus with QR codes, m
 
 Modern website for a barbershop in Villaviciosa. Designed to reflect their style and facilitate online appointment booking quickly and easily.
 
-[LaBarveria](https://labarveria.es)
+[LaBarveria](https://labarveria.com)
 
 ## Skills
 
