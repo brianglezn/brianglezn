@@ -1,26 +1,72 @@
 # Brian G. Novoa - @brianglezn
 
 ## About Me
-Experienced Software Developer with a passion for crafting elegant, efficient applications. I specialize in modern web technologies and frameworks, consistently delivering innovative solutions that solve problems. My approach combines technical expertise with creative problem-solving to build seamless digital experiences that users love.
 
-## Projects
+Full Stack Developer passionate about creating digital solutions that solve real problems. My approach combines careful design, clean code, and scalable architecture to deliver products that truly impact business growth.
 
-### Profit&Lost
-Profit&Lost is a fullstack web application developed with React, TypeScript, Node.js, Express, and PostgreSQL, designed to simplify personal finance management. It allows users to record and categorize income and expenses, keep detailed tracking of their accounts and financial movements, and generate annual reports for more comprehensive analysis. Additionally, being a Progressive Web App, it can be accessed from any device without installation. Currently, I continue working on new features to optimize the user experience and further improve the platform.
+I work with modern technologies on both frontend and backend, from responsive web applications to robust APIs and complex management systems. My goal is always to understand business needs to build solutions that not only work but drive growth.
 
-[Profit&Lost](https://profit-lost.com)
+Alongside a fullstack partner, I co-founded **BOcode**, a company specialized in custom software development that automates processes, scales with businesses, and generates real results. At BOcode, we create complete digital solutions ranging from custom web applications to management systems (CRM/ERP) and technology consulting.
+
+[BOcode](https://bocode.es)
+
+## Featured projects
+
+### ProfitLost
+
+Financial control platform for individuals and businesses who want to understand and optimize their finances. Visualize income and expenses in real-time, generate automatic reports, and make data-driven decisions.
+
+**Tech Stack**: React, TypeScript, Nest.js, PostgreSQL, Express, Docker, Cloudinary
+
+[ProfitLost](https://profit-lost.com)
 
 ### CartaHub
-CartaHub is a full-stack web application built with the MERN stack (MongoDB, Express.js, React, Node.js) designed to restaurant menu management. It provides a seamless solution for restaurant owners to digitally manage their menus, allowing customers to access them effortlessly via a QR code. This eliminates the need for traditional physical menus, offering a modern, hygienic, and easily updateable alternative.
+
+Complete digital system for restaurant management. Create menus with QR codes, manage orders, and keep your menu updated in multiple languages from a simple and intuitive platform.
+
+**Tech Stack**: React, TypeScript, Node.js, MongoDB, Express, Docker, Cloudinary
 
 [CartaHub](https://cartahub.es)
 
+### LaBarveria
+
+Modern website for a barbershop in Villaviciosa. Designed to reflect their style and facilitate online appointment booking quickly and easily.
+
+[LaBarveria](https://labarveria.es)
+
 ## Skills
-- **Languages**: JavaScript, TypeScript, HTML, CSS
-- **Frontend**: React, Next.js
-- **Backend**: Node.js, Express
+
+### Languages
+
+JavaScript, TypeScript, HTML, CSS
+
+### Frontend
+
+React, Angular, TypeScript, HTML, CSS, Tailwind
+
+### Backend
+
+Node.js, Nest.js, Express
+
+### Databases
+
+MongoDB, PostgreSQL
+
+### Tools & Infrastructure
+
+Docker, Cloudinary
+
+## Services
+
+-   Custom Web Applications
+-   Management Systems (CRM/ERP)
+-   APIs & Integrations
+-   Web Design
+-   Technology Consulting
 
 ## Contact
-- Linkedin: [@brianglezn](https://www.linkedin.com/in/brianglezn/)
-- Website: [brian-novoa.com](https://brian-novoa.com)
-- Instagram: [@brian.developer](https://www.instagram.com/brian.developer/)
+
+-   Email: brian@bocode.es
+-   LinkedIn: [@brianglezn](https://www.linkedin.com/in/brianglezn/)
+-   Website: [brian-novoa.com](https://brian-novoa.com)
+-   Instagram: [@brian.developer](https://www.instagram.com/brian.developer/)
