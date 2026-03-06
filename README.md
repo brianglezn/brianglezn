@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hola, soy Brian González Novoa 👋
+**Full Stack Developer y Co-Fundador de BOcode**
 
-<!--
-**brianglezn/brianglezn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ayudo a empresas a crear software y webs a medida que automatizan procesos y mejoran la experiencia del cliente.
 
-Here are some ideas to get you started:
+## 💻 Sobre mí
+Soy un desarrollador enfocado en crear soluciones digitales que funcionan de verdad. Trabajo en BOcode, donde diseño y desarrollo aplicaciones web y herramientas internas, como paneles de gestión y automatizaciones, para negocios. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías que utilizo
+* **Frontend**: React, TypeScript, JavaScript, AngularJS y StencilJS.
+* **Backend**: Node.js y NestJS.
+* **Bases de Datos**: PostgreSQL y MongoDB.
+* **Integraciones**: APIs, pasarelas de pago y N8N para automatizar tareas.
+
+## 🚀 Proyectos en BOcode
+En BOcode desarrollamos software a medida en Galicia. Algunos ejemplos de nuestro trabajo:
+* **Profit&Lost**: Una plataforma financiera para controlar gastos e ingresos con reportes automáticos.
+* **CartaHub**: Un sistema para gestionar menús digitales de restaurantes mediante códigos QR.
+* **Dashboard de gestión interna**: Un panel para automatizar procesos y centralizar las operaciones de una empresa.
+* **Futmaniacos**: Una tienda online (ecommerce) optimizada para aumentar las ventas de moda deportiva.
+* **LaBarveria**: Una web moderna con un sistema de reservas online.
+
+## 📬 Contacto
+* **Web**: [bocode.es](bocode.es)
+* **LinkedIn**: [brianglezn](linkedin.com/in/brianglezn)
+* **Email**: brian@bocode.es
